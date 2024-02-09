@@ -1,0 +1,23 @@
+{
+  "url" : "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "positions" : [
+    {
+      "name": "San Francisco",
+      "lat" : 51.50,
+      "lon" : -0.09,
+      "value" : 0.5
+    },
+    {
+      "name": "New York",
+      "lat" : 51.51,
+      "lon" : -0.09,
+      "value" : 0.7
+    },
+    {
+      "name": "Los Angeles",
+      "lat" : 51.52,
+      "lon" : -0.09,
+      "value" : 0.3
+    }
+  ]
+}
