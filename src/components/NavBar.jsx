@@ -13,10 +13,10 @@ const NavBar = () => {
       <Container>
         <Navbar.Brand href='/'>
           <img
-            src="/kolmogorov.png"
+            src="public/kolmogorov.png"
             width="60"
             height="60"
-            alt="React Bootstrap logo"
+            alt="Kolmogorov"
           />
           &nbsp; Kolmogorov</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
