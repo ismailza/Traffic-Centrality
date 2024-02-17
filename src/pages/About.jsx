@@ -53,7 +53,7 @@ const About = () => {
                     <div className="card">
                       <img src="https://avatars.githubusercontent.com/u/59634965?v=4" className="card-img-top" />
                       <div className="card-body">
-                        <h5 className="card-title">Khawla ABBASSI</h5>
+                        <h5 className="card-title">Khaoula ABBASSI</h5>
                       </div>
                     </div>
                   </div>
