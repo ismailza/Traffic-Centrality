@@ -11,7 +11,14 @@ const NavBar = () => {
       className="navbar w-100"
     >
       <Container>
-        <Navbar.Brand href='/'>Kolmogorov</Navbar.Brand>
+        <Navbar.Brand href='/'>
+          <img
+            src="/kolmogorov.png"
+            width="60"
+            height="60"
+            alt="React Bootstrap logo"
+          />
+          &nbsp; Kolmogorov</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
