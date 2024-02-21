@@ -1,0 +1,1508 @@
+{
+  "Lake St": {
+    "street": "Lake St",
+    "flow": 0.12255541069100391,
+    "lat": 41.884876,
+    "lon": -87.715267
+  },
+  "76th St": {
+    "street": "76th St",
+    "flow": 0.121251629726206,
+    "lat": 41.756617,
+    "lon": -87.613108
+  },
+  "57th Dr": {
+    "street": "57th Dr",
+    "flow": 0.6975228161668839,
+    "lat": 41.792663,
+    "lon": -87.582231
+  },
+  "24th St": {
+    "street": "24th St",
+    "flow": 0.009126466753585397,
+    "lat": 41.849302,
+    "lon": -87.622658
+  },
+  "130th St": {
+    "street": "130th St",
+    "flow": 0.3272490221642764,
+    "lat": 41.659124,
+    "lon": -87.612421
+  },
+  "Kimball Ave": {
+    "street": "Kimball Ave",
+    "flow": 0.18122555410691005,
+    "lat": 41.98049,
+    "lon": -87.713663
+  },
+  "Ashland Ave": {
+    "street": "Ashland Ave",
+    "flow": 0.5045632333767927,
+    "lat": 41.872567,
+    "lon": -87.66656
+  },
+  "State St": {
+    "street": "State St",
+    "flow": 0.27509778357235987,
+    "lat": 41.896924,
+    "lon": -87.628206
+  },
+  "La Salle St": {
+    "street": "La Salle St",
+    "flow": 0.21121251629726207,
+    "lat": 41.880972,
+    "lon": -87.632336
+  },
+  "Diversey Ave": {
+    "street": "Diversey Ave",
+    "flow": 0.24119947848761408,
+    "lat": 41.932037,
+    "lon": -87.705896
+  },
+  "Homan Ave": {
+    "street": "Homan Ave",
+    "flow": 0.02607561929595828,
+    "lat": 41.83815,
+    "lon": -87.709739
+  },
+  "Damen Ave": {
+    "street": "Damen Ave",
+    "flow": 0.2033898305084746,
+    "lat": 41.895021,
+    "lon": -87.677026
+  },
+  "Harbor Ave": {
+    "street": "Harbor Ave",
+    "flow": 0.03259452411994785,
+    "lat": 41.729262,
+    "lon": -87.541841
+  },
+  "Halsted St": {
+    "street": "Halsted St",
+    "flow": 0.17209908735332463,
+    "lat": 41.78453,
+    "lon": -87.644905
+  },
+  "Cottage Grove Ave": {
+    "street": "Cottage Grove Ave",
+    "flow": 0.28292046936114734,
+    "lat": 41.770685,
+    "lon": -87.605711
+  },
+  "Pershing Rd": {
+    "street": "Pershing Rd",
+    "flow": 0.16036505867014342,
+    "lat": 41.822902,
+    "lon": -87.688714
+  },
+  "Chicago Ave": {
+    "street": "Chicago Ave",
+    "flow": 0.3324641460234681,
+    "lat": 41.896292,
+    "lon": -87.653604
+  },
+  "71st St": {
+    "street": "71st St",
+    "flow": 0.23859191655801826,
+    "lat": 41.765644,
+    "lon": -87.618476
+  },
+  "Woodlawn Ave": {
+    "street": "Woodlawn Ave",
+    "flow": 0.07170795306388526,
+    "lat": 41.805123,
+    "lon": -87.596753
+  },
+  "Washington St": {
+    "street": "Washington St",
+    "flow": 0.19035202086049544,
+    "lat": 41.883208,
+    "lon": -87.634482
+  },
+  "Addison Ave": {
+    "street": "Addison Ave",
+    "flow": 0.2138200782268579,
+    "lat": 41.947284,
+    "lon": -87.651946
+  },
+  "St Lawrence Ave": {
+    "street": "St Lawrence Ave",
+    "flow": 0.0651890482398957,
+    "lat": 41.766933,
+    "lon": -87.610456
+  },
+  "Jackson Blvd": {
+    "street": "Jackson Blvd",
+    "flow": 0.08604954367666232,
+    "lat": 41.877635,
+    "lon": -87.665993
+  },
+  "55th Street": {
+    "street": "55th Street",
+    "flow": 0.4406779661016949,
+    "lat": 41.794244,
+    "lon": -87.648908
+  },
+  "Belmont Ave": {
+    "street": "Belmont Ave",
+    "flow": 0.42633637548891784,
+    "lat": 41.939303,
+    "lon": -87.710743
+  },
+  "Central Park Ave": {
+    "street": "Central Park Ave",
+    "flow": 0.13428943937418514,
+    "lat": 41.846067,
+    "lon": -87.714837
+  },
+  "Laramie Ave": {
+    "street": "Laramie Ave",
+    "flow": 0.1760104302477184,
+    "lat": 41.912823,
+    "lon": -87.755782
+  },
+  "Madison St": {
+    "street": "Madison St",
+    "flow": 0.14993481095176012,
+    "lat": 41.882024,
+    "lon": -87.628403
+  },
+  "43rd St": {
+    "street": "43rd St",
+    "flow": 0.06258148631029987,
+    "lat": 41.815847,
+    "lon": -87.661488
+  },
+  "71st Street": {
+    "street": "71st Street",
+    "flow": 0.2816166883963494,
+    "lat": 41.765204,
+    "lon": -87.644371
+  },
+  "Cicero Ave": {
+    "street": "Cicero Ave",
+    "flow": 0.29595827900912647,
+    "lat": 41.986165,
+    "lon": -87.748308
+  },
+  "Ohio St": {
+    "street": "Ohio St",
+    "flow": 0.16036505867014342,
+    "lat": 41.892579,
+    "lon": -87.621433
+  },
+  "Kedzie Ave": {
+    "street": "Kedzie Ave",
+    "flow": 0.20208604954367665,
+    "lat": 41.966963,
+    "lon": -87.708429
+  },
+  "Clark St": {
+    "street": "Clark St",
+    "flow": 0.19295958279009126,
+    "lat": 41.855964,
+    "lon": -87.630176
+  },
+  "Archer Ave": {
+    "street": "Archer Ave",
+    "flow": 0.3624511082138201,
+    "lat": 41.807818,
+    "lon": -87.714468
+  },
+  "Van Buren St": {
+    "street": "Van Buren St",
+    "flow": 0.09647979139504563,
+    "lat": 41.87691,
+    "lon": -87.628624
+  },
+  "Wentworth Ave": {
+    "street": "Wentworth Ave",
+    "flow": 0.09256844850065189,
+    "lat": 41.773651,
+    "lon": -87.629987
+  },
+  "95th St": {
+    "street": "95th St",
+    "flow": 0.4471968709256845,
+    "lat": 41.721244,
+    "lon": -87.660284
+  },
+  "Foster Ave": {
+    "street": "Foster Ave",
+    "flow": 0.32073011734028684,
+    "lat": 41.975186,
+    "lon": -87.760787
+  },
+  "Adams St": {
+    "street": "Adams St",
+    "flow": 0.04954367666232073,
+    "lat": 41.879037,
+    "lon": -87.658396
+  },
+  "83rd Street": {
+    "street": "83rd Street",
+    "flow": 0.23468057366362452,
+    "lat": 41.743855,
+    "lon": -87.612049
+  },
+  "107th St": {
+    "street": "107th St",
+    "flow": 0.1421121251629726,
+    "lat": 41.699648,
+    "lon": -87.641695
+  },
+  "Fullerton Ave": {
+    "street": "Fullerton Ave",
+    "flow": 0.318122555410691,
+    "lat": 41.925199,
+    "lon": -87.664619
+  },
+  "31st St": {
+    "street": "31st St",
+    "flow": 0.2685788787483703,
+    "lat": 41.837188,
+    "lon": -87.706989
+  },
+  "Milwaukee Ave": {
+    "street": "Milwaukee Ave",
+    "flow": 0.3494132985658409,
+    "lat": 41.995915,
+    "lon": -87.786522
+  },
+  "Cermak Rd": {
+    "street": "Cermak Rd",
+    "flow": 0.20599739243807041,
+    "lat": 41.852881,
+    "lon": -87.622835
+  },
+  "Western Ave": {
+    "street": "Western Ave",
+    "flow": 0.3324641460234681,
+    "lat": 41.847006,
+    "lon": -87.685499
+  },
+  "Racine Ave": {
+    "street": "Racine Ave",
+    "flow": 0.14732724902216426,
+    "lat": 41.772,
+    "lon": -87.654299
+  },
+  "Morgan St": {
+    "street": "Morgan St",
+    "flow": 0.054758800521512385,
+    "lat": 41.769644,
+    "lon": -87.649382
+  },
+  "Harrison St": {
+    "street": "Harrison St",
+    "flow": 0.19556714471968709,
+    "lat": 41.87436,
+    "lon": -87.652225
+  },
+  "California Ave": {
+    "street": "California Ave",
+    "flow": 0.242503259452412,
+    "lat": 41.794209,
+    "lon": -87.693813
+  },
+  "Wabash Ave": {
+    "street": "Wabash Ave",
+    "flow": 0.14993481095176012,
+    "lat": 41.86832,
+    "lon": -87.625851
+  },
+  "Dr Martin Luther King Jr Dr": {
+    "street": "Dr Martin Luther King Jr Dr",
+    "flow": 0.2529335071707953,
+    "lat": 41.821807,
+    "lon": -87.616942
+  },
+  "Lawrence Ave": {
+    "street": "Lawrence Ave",
+    "flow": 0.2711864406779661,
+    "lat": 41.967757,
+    "lon": -87.764167
+  },
+  "Western Blvd": {
+    "street": "Western Blvd",
+    "flow": 0.2620599739243807,
+    "lat": 41.79459,
+    "lon": -87.684058
+  },
+  "51st St": {
+    "street": "51st St",
+    "flow": 0.1877444589308996,
+    "lat": 41.801796,
+    "lon": -87.633948
+  },
+  "Central Ave": {
+    "street": "Central Ave",
+    "flow": 0.31029986962190353,
+    "lat": 41.947672,
+    "lon": -87.766819
+  },
+  "Jeffery Ave": {
+    "street": "Jeffery Ave",
+    "flow": 0.10430247718383312,
+    "lat": 41.720377,
+    "lon": -87.575308
+  },
+  "Montrose Ave": {
+    "street": "Montrose Ave",
+    "flow": 0.21773142112125163,
+    "lat": 41.961614,
+    "lon": -87.667445
+  },
+  "47th St": {
+    "street": "47th St",
+    "flow": 0.2242503259452412,
+    "lat": 41.809607,
+    "lon": -87.599776
+  },
+  "Hyde Park Blvd": {
+    "street": "Hyde Park Blvd",
+    "flow": 0.09647979139504563,
+    "lat": 41.797123,
+    "lon": -87.583995
+  },
+  "Loomis St": {
+    "street": "Loomis St",
+    "flow": 0.08604954367666232,
+    "lat": 41.752036,
+    "lon": -87.658628
+  },
+  "Michigan Ave": {
+    "street": "Michigan Ave",
+    "flow": 0.15514993481095177,
+    "lat": 41.687943,
+    "lon": -87.620988
+  },
+  "Warren Blvd": {
+    "street": "Warren Blvd",
+    "flow": 0.07822685788787484,
+    "lat": 41.882074,
+    "lon": -87.687892
+  },
+  "Grand Ave": {
+    "street": "Grand Ave",
+    "flow": 0.24511082138200782,
+    "lat": 41.893314,
+    "lon": -87.694126
+  },
+  "75th St": {
+    "street": "75th St",
+    "flow": 0.17079530638852672,
+    "lat": 41.758814,
+    "lon": -87.581651
+  },
+  "111th St": {
+    "street": "111th St",
+    "flow": 0.16688396349413298,
+    "lat": 41.692571,
+    "lon": -87.624189
+  },
+  "63rd Street": {
+    "street": "63rd Street",
+    "flow": 0.23468057366362452,
+    "lat": 41.779224,
+    "lon": -87.680473
+  },
+  "Clinton St": {
+    "street": "Clinton St",
+    "flow": 0.09517601043024772,
+    "lat": 41.874389,
+    "lon": -87.640956
+  },
+  "79th St": {
+    "street": "79th St",
+    "flow": 0.21251629726205998,
+    "lat": 41.75131,
+    "lon": -87.603145
+  },
+  "Narragansett Ave": {
+    "street": "Narragansett Ave",
+    "flow": 0.26988265971316816,
+    "lat": 41.962045,
+    "lon": -87.786866
+  },
+  "Granville Ave": {
+    "street": "Granville Ave",
+    "flow": 0.08344198174706649,
+    "lat": 41.994513,
+    "lon": -87.663898
+  },
+  "Wells St": {
+    "street": "Wells St",
+    "flow": 0.1395045632333768,
+    "lat": 41.912883,
+    "lon": -87.634765
+  },
+  "Forest Preserve Ave": {
+    "street": "Forest Preserve Ave",
+    "flow": 0.20860495436766624,
+    "lat": 41.94619,
+    "lon": -87.822945
+  },
+  "South Water Lower St": {
+    "street": "South Water Lower St",
+    "flow": 0.13820078226857888,
+    "lat": 41.88673,
+    "lon": -87.623929
+  },
+  "Des Plaines St": {
+    "street": "Des Plaines St",
+    "flow": 0.11473272490221642,
+    "lat": 41.879863,
+    "lon": -87.644062
+  },
+  "Sacramento Ave": {
+    "street": "Sacramento Ave",
+    "flow": 0.2607561929595828,
+    "lat": 41.866927,
+    "lon": -87.700802
+  },
+  "Ogden Ave": {
+    "street": "Ogden Ave",
+    "flow": 0.29595827900912647,
+    "lat": 41.869995,
+    "lon": -87.679727
+  },
+  "76th Street": {
+    "street": "76th Street",
+    "flow": 0.10430247718383312,
+    "lat": 41.755721,
+    "lon": -87.671249
+  },
+  "Nagle Ave": {
+    "street": "Nagle Ave",
+    "flow": 0.29595827900912647,
+    "lat": 41.970016,
+    "lon": -87.787986
+  },
+  "Irving Park Rd": {
+    "street": "Irving Park Rd",
+    "flow": 0.4041720990873533,
+    "lat": 41.952978,
+    "lon": -87.781878
+  },
+  "87th Street": {
+    "street": "87th Street",
+    "flow": 0.32073011734028684,
+    "lat": 41.736399,
+    "lon": -87.621325
+  },
+  "Roosevelt Rd": {
+    "street": "Roosevelt Rd",
+    "flow": 0.36766623207301175,
+    "lat": 41.86686,
+    "lon": -87.668106
+  },
+  "North Ave": {
+    "street": "North Ave",
+    "flow": 0.5436766623207301,
+    "lat": 41.90909,
+    "lon": -87.789897
+  },
+  "112th St": {
+    "street": "112th St",
+    "flow": 0.10039113428943937,
+    "lat": 41.691858,
+    "lon": -87.539118
+  },
+  "Broadway": {
+    "street": "Broadway",
+    "flow": 0.3259452411994785,
+    "lat": 41.977627,
+    "lon": -87.659904
+  },
+  "95th Street": {
+    "street": "95th Street",
+    "flow": 0.41199478487614083,
+    "lat": 41.721119,
+    "lon": -87.669564
+  },
+  "Columbus Dr": {
+    "street": "Columbus Dr",
+    "flow": 0.4941329856584094,
+    "lat": 41.869368,
+    "lon": -87.620509
+  },
+  "Wacker Dr": {
+    "street": "Wacker Dr",
+    "flow": 0.31029986962190353,
+    "lat": 41.884486,
+    "lon": -87.637068
+  },
+  "Indiana Ave": {
+    "street": "Indiana Ave",
+    "flow": 0.09647979139504563,
+    "lat": 41.832167,
+    "lon": -87.621788
+  },
+  "87th St": {
+    "street": "87th St",
+    "flow": 0.08604954367666232,
+    "lat": 41.73739,
+    "lon": -87.550512
+  },
+  "Peterson Ave": {
+    "street": "Peterson Ave",
+    "flow": 0.49934810951760106,
+    "lat": 41.990343,
+    "lon": -87.71242
+  },
+  "Pratt Blvd": {
+    "street": "Pratt Blvd",
+    "flow": 0.09256844850065189,
+    "lat": 42.00544,
+    "lon": -87.666635
+  },
+  "59th St": {
+    "street": "59th St",
+    "flow": 0.21251629726205998,
+    "lat": 41.78691,
+    "lon": -87.652961
+  },
+  "26TH  ST": {
+    "street": "26TH  ST",
+    "flow": 0.08996088657105607,
+    "lat": 41.845391,
+    "lon": -87.641581
+  },
+  "Midway Plaisance": {
+    "street": "Midway Plaisance",
+    "flow": 0.21773142112125163,
+    "lat": 41.787229,
+    "lon": -87.594821
+  },
+  "Calumet Ave": {
+    "street": "Calumet Ave",
+    "flow": 0.03129074315514994,
+    "lat": 41.855226,
+    "lon": -87.619095
+  },
+  "Marquette St": {
+    "street": "Marquette St",
+    "flow": 0.22946544980443284,
+    "lat": 41.771809,
+    "lon": -87.694212
+  },
+  "Exchange Ave": {
+    "street": "Exchange Ave",
+    "flow": 0.10821382007822686,
+    "lat": 41.755798,
+    "lon": -87.55646
+  },
+  "Cornell Dr": {
+    "street": "Cornell Dr",
+    "flow": 0.560625814863103,
+    "lat": 41.782388,
+    "lon": -87.584573
+  },
+  "134th St": {
+    "street": "134th St",
+    "flow": 0.061277705345501955,
+    "lat": 41.651861,
+    "lon": -87.54501
+  },
+  "Pulaski Rd": {
+    "street": "Pulaski Rd",
+    "flow": 0.2777053455019557,
+    "lat": 41.918169,
+    "lon": -87.72659
+  },
+  "Lincoln  Ave": {
+    "street": "Lincoln  Ave",
+    "flow": 0.318122555410691,
+    "lat": 41.982351,
+    "lon": -87.693821
+  },
+  "Marshall Blvd": {
+    "street": "Marshall Blvd",
+    "flow": 0.24511082138200782,
+    "lat": 41.852795,
+    "lon": -87.699117
+  },
+  "Dearborn St": {
+    "street": "Dearborn St",
+    "flow": 0.24119947848761408,
+    "lat": 41.880734,
+    "lon": -87.629368
+  },
+  "Stony Island Ave": {
+    "street": "Stony Island Ave",
+    "flow": 0.9504563233376793,
+    "lat": 41.755119,
+    "lon": -87.586125
+  },
+  "Lake Shore Inner Dr": {
+    "street": "Lake Shore Inner Dr",
+    "flow": 0.061277705345501955,
+    "lat": 41.934544,
+    "lon": -87.636704
+  },
+  "Lincoln Ave": {
+    "street": "Lincoln Ave",
+    "flow": 0.4641460234680574,
+    "lat": 41.992962,
+    "lon": -87.711563
+  },
+  "Root St": {
+    "street": "Root St",
+    "flow": 0.041720990873533245,
+    "lat": 41.818962,
+    "lon": -87.645802
+  },
+  "Austin Ave": {
+    "street": "Austin Ave",
+    "flow": 0.4106910039113429,
+    "lat": 41.883496,
+    "lon": -87.77476
+  },
+  "Randolph St": {
+    "street": "Randolph St",
+    "flow": 0.24119947848761408,
+    "lat": 41.884455,
+    "lon": -87.637906
+  },
+  "18th St": {
+    "street": "18th St",
+    "flow": 0.04954367666232073,
+    "lat": 41.85789,
+    "lon": -87.622993
+  },
+  "Jackson Dr": {
+    "street": "Jackson Dr",
+    "flow": 0.10299869621903521,
+    "lat": 41.87831,
+    "lon": -87.622407
+  },
+  "79th Street": {
+    "street": "79th Street",
+    "flow": 0.2255541069100391,
+    "lat": 41.750449,
+    "lon": -87.657022
+  },
+  "Financial PL": {
+    "street": "Financial PL",
+    "flow": 0.03650586701434159,
+    "lat": 41.87559,
+    "lon": -87.633082
+  },
+  "Jeffery Blvd": {
+    "street": "Jeffery Blvd",
+    "flow": 0.17470664928292046,
+    "lat": 41.747152,
+    "lon": -87.575902
+  },
+  "Oak Park Ave": {
+    "street": "Oak Park Ave",
+    "flow": 0.22294654498044328,
+    "lat": 41.937284,
+    "lon": -87.795671
+  },
+  "Division St": {
+    "street": "Division St",
+    "flow": 0.22033898305084745,
+    "lat": 41.902686,
+    "lon": -87.724565
+  },
+  "Ontario St": {
+    "street": "Ontario St",
+    "flow": 0.17470664928292046,
+    "lat": 41.893383,
+    "lon": -87.621457
+  },
+  "35th St": {
+    "street": "35th St",
+    "flow": 0.13298565840938723,
+    "lat": 41.831081,
+    "lon": -87.619334
+  },
+  "26th St": {
+    "street": "26th St",
+    "flow": 0.23989569752281617,
+    "lat": 41.844328,
+    "lon": -87.718582
+  },
+  "Addison St": {
+    "street": "Addison St",
+    "flow": 0.1681877444589309,
+    "lat": 41.947325,
+    "lon": -87.648813
+  },
+  "Polk St": {
+    "street": "Polk St",
+    "flow": 0.11603650586701435,
+    "lat": 41.872155,
+    "lon": -87.633321
+  },
+  "55th St": {
+    "street": "55th St",
+    "flow": 0.29726205997392435,
+    "lat": 41.794804,
+    "lon": -87.61571
+  },
+  "Ridge Ave": {
+    "street": "Ridge Ave",
+    "flow": 0.5619295958279009,
+    "lat": 41.987636,
+    "lon": -87.666618
+  },
+  "Higgins Ave": {
+    "street": "Higgins Ave",
+    "flow": 0.18383311603650587,
+    "lat": 41.982088,
+    "lon": -87.813919
+  },
+  "119th St": {
+    "street": "119th St",
+    "flow": 0.08996088657105607,
+    "lat": 41.678058,
+    "lon": -87.620552
+  },
+  "16th St": {
+    "street": "16th St",
+    "flow": 0.12385919165580182,
+    "lat": 41.858949,
+    "lon": -87.717426
+  },
+  "Canal St": {
+    "street": "Canal St",
+    "flow": 0.1577574967405476,
+    "lat": 41.878519,
+    "lon": -87.639575
+  },
+  "59th Street": {
+    "street": "59th Street",
+    "flow": 0.11603650586701435,
+    "lat": 41.787305,
+    "lon": -87.628708
+  },
+  "63rd St": {
+    "street": "63rd St",
+    "flow": 0.31290743155149936,
+    "lat": 41.778674,
+    "lon": -87.721655
+  },
+  "Vincennes Ave": {
+    "street": "Vincennes Ave",
+    "flow": 0.09126466753585398,
+    "lat": 41.677875,
+    "lon": -87.671582
+  },
+  "Lake Shore Dr": {
+    "street": "Lake Shore Dr",
+    "flow": 0.7014341590612777,
+    "lat": 41.787818,
+    "lon": -87.577818
+  },
+  "Cumberland Ave": {
+    "street": "Cumberland Ave",
+    "flow": 0.4302477183833116,
+    "lat": 41.941973,
+    "lon": -87.836292
+  },
+  "Harlem Ave": {
+    "street": "Harlem Ave",
+    "flow": 0.8305084745762712,
+    "lat": 41.783408,
+    "lon": -87.80116
+  },
+  "67th St": {
+    "street": "67th St",
+    "flow": 0.11994784876140809,
+    "lat": 41.773298,
+    "lon": -87.589932
+  },
+  "87th  St": {
+    "street": "87th  St",
+    "flow": 0.423728813559322,
+    "lat": 41.736141,
+    "lon": -87.642399
+  },
+  "Desplaines St": {
+    "street": "Desplaines St",
+    "flow": 0.05867014341590613,
+    "lat": 41.891012,
+    "lon": -87.644365
+  },
+  "74th St": {
+    "street": "74th St",
+    "flow": 0.1316818774445893,
+    "lat": 41.759597,
+    "lon": -87.653971
+  },
+  "100th St": {
+    "street": "100th St",
+    "flow": 0.16688396349413298,
+    "lat": 41.713772,
+    "lon": -87.54362
+  },
+  "51st Street": {
+    "street": "51st Street",
+    "flow": 0.11603650586701435,
+    "lat": 41.801533,
+    "lon": -87.648948
+  },
+  "Armitage Ave": {
+    "street": "Armitage Ave",
+    "flow": 0.21903520208604954,
+    "lat": 41.917529,
+    "lon": -87.692627
+  },
+  "Monroe St": {
+    "street": "Monroe St",
+    "flow": 0.1760104302477184,
+    "lat": 41.88085,
+    "lon": -87.622687
+  },
+  "Jefferson St": {
+    "street": "Jefferson St",
+    "flow": 0.11864406779661017,
+    "lat": 41.880549,
+    "lon": -87.642619
+  },
+  "60th St": {
+    "street": "60th St",
+    "flow": 0.03780964797913951,
+    "lat": 41.785874,
+    "lon": -87.606038
+  },
+  "Macknaw Ave": {
+    "street": "Macknaw Ave",
+    "flow": 0.1694915254237288,
+    "lat": 41.735654,
+    "lon": -87.543033
+  },
+  "Commercial Ave": {
+    "street": "Commercial Ave",
+    "flow": 0.16558018252933507,
+    "lat": 41.724444,
+    "lon": -87.551124
+  },
+  "Sheridan Rd": {
+    "street": "Sheridan Rd",
+    "flow": 0.09778357235984354,
+    "lat": 41.962457,
+    "lon": -87.654755
+  },
+  "18th Street": {
+    "street": "18th Street",
+    "flow": 0.08735332464146023,
+    "lat": 41.857573,
+    "lon": -87.683337
+  },
+  "101st St": {
+    "street": "101st St",
+    "flow": 0.08865710560625815,
+    "lat": 41.710698,
+    "lon": -87.632871
+  },
+  "Summit Ave": {
+    "street": "Summit Ave",
+    "flow": 0.08083441981747067,
+    "lat": 41.737236,
+    "lon": -87.644725
+  },
+  "Kostner Ave": {
+    "street": "Kostner Ave",
+    "flow": 0.2438070404172099,
+    "lat": 41.875108,
+    "lon": -87.735281
+  },
+  "115th St": {
+    "street": "115th St",
+    "flow": 0.08213820078226858,
+    "lat": 41.684661,
+    "lon": -87.670012
+  },
+  "Congress Plaza Dr": {
+    "street": "Congress Plaza Dr",
+    "flow": 0.09778357235984354,
+    "lat": 41.876222,
+    "lon": -87.623366
+  },
+  "Morgan Dr": {
+    "street": "Morgan Dr",
+    "flow": 0.36766623207301175,
+    "lat": 41.793546,
+    "lon": -87.612405
+  },
+  "Blue Island Ave": {
+    "street": "Blue Island Ave",
+    "flow": 0.23598435462842243,
+    "lat": 41.846463,
+    "lon": -87.681163
+  },
+  "Lake Park Ave": {
+    "street": "Lake Park Ave",
+    "flow": 0.23728813559322035,
+    "lat": 41.797367,
+    "lon": -87.587322
+  },
+  "Hollywood Ave": {
+    "street": "Hollywood Ave",
+    "flow": 0.4589308996088657,
+    "lat": 41.985494,
+    "lon": -87.657453
+  },
+  "Balbo Dr": {
+    "street": "Balbo Dr",
+    "flow": 0.16166883963494133,
+    "lat": 41.873213,
+    "lon": -87.620591
+  },
+  "103rd Street": {
+    "street": "103rd Street",
+    "flow": 0.242503259452412,
+    "lat": 41.707125,
+    "lon": -87.626548
+  },
+  "Wrightwood Ave": {
+    "street": "Wrightwood Ave",
+    "flow": 0.1303780964797914,
+    "lat": 41.928333,
+    "lon": -87.710574
+  },
+  "Clarendon St": {
+    "street": "Clarendon St",
+    "flow": 0.061277705345501955,
+    "lat": 41.963669,
+    "lon": -87.649966
+  },
+  "Marquette Rd": {
+    "street": "Marquette Rd",
+    "flow": 0.25945241199478486,
+    "lat": 41.772514,
+    "lon": -87.641987
+  },
+  "Longwood Dr": {
+    "street": "Longwood Dr",
+    "flow": 0.07040417209908735,
+    "lat": 41.690212,
+    "lon": -87.672221
+  },
+  "Garfield Blvd": {
+    "street": "Garfield Blvd",
+    "flow": 0.5045632333767927,
+    "lat": 41.794582,
+    "lon": -87.629567
+  },
+  "Parnell Ave": {
+    "street": "Parnell Ave",
+    "flow": 0.01564537157757497,
+    "lat": 41.759562,
+    "lon": -87.638479
+  },
+  "Caldwell Ave": {
+    "street": "Caldwell Ave",
+    "flow": 0.3533246414602347,
+    "lat": 41.991514,
+    "lon": -87.754317
+  },
+  "Clybourn Ave": {
+    "street": "Clybourn Ave",
+    "flow": 0.2138200782268579,
+    "lat": 41.923528,
+    "lon": -87.667066
+  },
+  "Ogden St": {
+    "street": "Ogden St",
+    "flow": 0.26727509778357234,
+    "lat": 41.850584,
+    "lon": -87.726087
+  },
+  "103rd St": {
+    "street": "103rd St",
+    "flow": 0.2320730117340287,
+    "lat": 41.707533,
+    "lon": -87.600985
+  },
+  "Touhy Ave": {
+    "street": "Touhy Ave",
+    "flow": 0.439374185136897,
+    "lat": 42.011999,
+    "lon": -87.785556
+  },
+  "Franklin St": {
+    "street": "Franklin St",
+    "flow": 0.0651890482398957,
+    "lat": 41.890003,
+    "lon": -87.713444
+  },
+  "Beverly Ave": {
+    "street": "Beverly Ave",
+    "flow": 0.2646675358539765,
+    "lat": 41.719205,
+    "lon": -87.662247
+  },
+  "Western Ave (over pass)": {
+    "street": "Western Ave (over pass)",
+    "flow": 0.41851368970013036,
+    "lat": 41.940366,
+    "lon": -87.688076
+  },
+  "Michigan Lower Ave": {
+    "street": "Michigan Lower Ave",
+    "flow": 0.23728813559322035,
+    "lat": 41.888071,
+    "lon": -87.624601
+  },
+  "Brainard Ave": {
+    "street": "Brainard Ave",
+    "flow": 0.21121251629726207,
+    "lat": 41.65732,
+    "lon": -87.557177
+  },
+  "Southport Ave": {
+    "street": "Southport Ave",
+    "flow": 0.11342894393741851,
+    "lat": 41.92249,
+    "lon": -87.663226
+  },
+  "83rd St": {
+    "street": "83rd St",
+    "flow": 0.29595827900912647,
+    "lat": 41.743578,
+    "lon": -87.629307
+  },
+  "Elston Ave": {
+    "street": "Elston Ave",
+    "flow": 0.20730117340286833,
+    "lat": 41.973886,
+    "lon": -87.749542
+  },
+  "Augusta Blvd": {
+    "street": "Augusta Blvd",
+    "flow": 0.16688396349413298,
+    "lat": 41.899743,
+    "lon": -87.66515
+  },
+  "Rogers Ave": {
+    "street": "Rogers Ave",
+    "flow": 0.09908735332464146,
+    "lat": 42.013319,
+    "lon": -87.680974
+  },
+  "127th St": {
+    "street": "127th St",
+    "flow": 0.3741851368970013,
+    "lat": 41.663388,
+    "lon": -87.618884
+  },
+  "Sheridan Ave": {
+    "street": "Sheridan Ave",
+    "flow": 0.16297262059973924,
+    "lat": 41.97914,
+    "lon": -87.655026
+  },
+  "Wacker Lower Dr": {
+    "street": "Wacker Lower Dr",
+    "flow": 0.44589308996088656,
+    "lat": 41.888302,
+    "lon": -87.623405
+  },
+  "Federal St": {
+    "street": "Federal St",
+    "flow": 0.02607561929595828,
+    "lat": 41.875841,
+    "lon": -87.629701
+  },
+  "Fairbanks Ct": {
+    "street": "Fairbanks Ct",
+    "flow": 0.1395045632333768,
+    "lat": 41.896368,
+    "lon": -87.620359
+  },
+  "East River Rd": {
+    "street": "East River Rd",
+    "flow": 0.29335071707953064,
+    "lat": 41.973131,
+    "lon": -87.846512
+  },
+  "92nd St": {
+    "street": "92nd St",
+    "flow": 0.5384615384615384,
+    "lat": 41.72824,
+    "lon": -87.552415
+  },
+  "Congress Pkwy": {
+    "street": "Congress Pkwy",
+    "flow": 1,
+    "lat": 41.875606,
+    "lon": -87.630878
+  },
+  "Hamlin Ave": {
+    "street": "Hamlin Ave",
+    "flow": 0.20208604954367665,
+    "lat": 41.882384,
+    "lon": -87.720836
+  },
+  "Avenue L": {
+    "street": "Avenue L",
+    "flow": 0.054758800521512385,
+    "lat": 41.711118,
+    "lon": -87.536485
+  },
+  "Pope John Paul II": {
+    "street": "Pope John Paul II",
+    "flow": 0.09126466753585398,
+    "lat": 41.815579,
+    "lon": -87.692019
+  },
+  "Avenue O": {
+    "street": "Avenue O",
+    "flow": 0.20860495436766624,
+    "lat": 41.690863,
+    "lon": -87.540104
+  },
+  "Bryn Mawr Ave": {
+    "street": "Bryn Mawr Ave",
+    "flow": 0.2320730117340287,
+    "lat": 41.983656,
+    "lon": -87.658134
+  },
+  "Best Dr": {
+    "street": "Best Dr",
+    "flow": 0.07301173402868318,
+    "lat": 41.786586,
+    "lon": -87.611974
+  },
+  "Wilson Ave": {
+    "street": "Wilson Ave",
+    "flow": 0.16558018252933507,
+    "lat": 41.965326,
+    "lon": -87.662564
+  },
+  "Plymouth CT": {
+    "street": "Plymouth CT",
+    "flow": 0.04563233376792699,
+    "lat": 41.876735,
+    "lon": -87.628733
+  },
+  "83rdStreet": {
+    "street": "83rdStreet",
+    "flow": 0.196870925684485,
+    "lat": 41.743249,
+    "lon": -87.651157
+  },
+  "97th St": {
+    "street": "97th St",
+    "flow": 0.05084745762711865,
+    "lat": 41.71796,
+    "lon": -87.632971
+  },
+  "75th Street": {
+    "street": "75th Street",
+    "flow": 0.22946544980443284,
+    "lat": 41.758155,
+    "lon": -87.629625
+  },
+  "South Shore Dr": {
+    "street": "South Shore Dr",
+    "flow": 0.4576271186440678,
+    "lat": 41.770241,
+    "lon": -87.566558
+  },
+  "Balbo Ave": {
+    "street": "Balbo Ave",
+    "flow": 0.13689700130378096,
+    "lat": 41.873149,
+    "lon": -87.624836
+  },
+  "Roosevelt RD": {
+    "street": "Roosevelt RD",
+    "flow": 0.43285528031290743,
+    "lat": 41.867439,
+    "lon": -87.625406
+  },
+  "57th St": {
+    "street": "57th St",
+    "flow": 0.5149934810951761,
+    "lat": 41.791544,
+    "lon": -87.586175
+  },
+  "Van Vlissingen Rd": {
+    "street": "Van Vlissingen Rd",
+    "flow": 0.08865710560625815,
+    "lat": 41.714883,
+    "lon": -87.573706
+  },
+  "Torrence Ave": {
+    "street": "Torrence Ave",
+    "flow": 0.196870925684485,
+    "lat": 41.655545,
+    "lon": -87.559298
+  },
+  "Columbus Ave": {
+    "street": "Columbus Ave",
+    "flow": 0.22033898305084745,
+    "lat": 41.738019,
+    "lon": -87.718381
+  },
+  "Baltimore Ave": {
+    "street": "Baltimore Ave",
+    "flow": 0.05736636245110821,
+    "lat": 41.658336,
+    "lon": -87.547134
+  },
+  "Bond Ave": {
+    "street": "Bond Ave",
+    "flow": 0.14471968709256844,
+    "lat": 41.743319,
+    "lon": -87.547879
+  },
+  "Rainey Dr": {
+    "street": "Rainey Dr",
+    "flow": 0.21251629726205998,
+    "lat": 41.793645,
+    "lon": -87.609034
+  },
+  "Midway Plaissance": {
+    "street": "Midway Plaissance",
+    "flow": 0.1877444589308996,
+    "lat": 41.78652,
+    "lon": -87.596845
+  },
+  "106th St": {
+    "street": "106th St",
+    "flow": 0.2151238591916558,
+    "lat": 41.702743,
+    "lon": -87.537314
+  },
+  "Colfax Ave": {
+    "street": "Colfax Ave",
+    "flow": 0.17079530638852672,
+    "lat": 41.720957,
+    "lon": -87.560671
+  },
+  "Yates Blvd": {
+    "street": "Yates Blvd",
+    "flow": 0.16297262059973924,
+    "lat": 41.764222,
+    "lon": -87.566483
+  },
+  "Leigh Ave": {
+    "street": "Leigh Ave",
+    "flow": 0.1121251629726206,
+    "lat": 42.010697,
+    "lon": -87.772707
+  },
+  "Sedgwick St": {
+    "street": "Sedgwick St",
+    "flow": 0.07431551499348109,
+    "lat": 41.912849,
+    "lon": -87.638637
+  },
+  "Payne Dr": {
+    "street": "Payne Dr",
+    "flow": 0.2242503259452412,
+    "lat": 41.794542,
+    "lon": -87.607689
+  },
+  "Lakeview Ave": {
+    "street": "Lakeview Ave",
+    "flow": 0.08865710560625815,
+    "lat": 41.93136,
+    "lon": -87.639326
+  },
+  "99th Street": {
+    "street": "99th Street",
+    "flow": 0.14732724902216426,
+    "lat": 41.713939,
+    "lon": -87.664213
+  },
+  "Devon Ave": {
+    "street": "Devon Ave",
+    "flow": 0.2894393741851369,
+    "lat": 41.997767,
+    "lon": -87.687751
+  },
+  "Western Ave (frontage rd)": {
+    "street": "Western Ave (frontage rd)",
+    "flow": 0.1290743155149935,
+    "lat": 41.941149,
+    "lon": -87.688219
+  },
+  "Sheffield Ave": {
+    "street": "Sheffield Ave",
+    "flow": 0.1395045632333768,
+    "lat": 41.933448,
+    "lon": -87.653886
+  },
+  "85th St": {
+    "street": "85th St",
+    "flow": 0.16036505867014342,
+    "lat": 41.741127,
+    "lon": -87.545616
+  },
+  "South Chicago Ave": {
+    "street": "South Chicago Ave",
+    "flow": 0.21251629726205998,
+    "lat": 41.739994,
+    "lon": -87.569589
+  },
+  "Harrison ST": {
+    "street": "Harrison ST",
+    "flow": 0.07692307692307693,
+    "lat": 41.87438,
+    "lon": -87.627297
+  },
+  "Orleans St": {
+    "street": "Orleans St",
+    "flow": 0.258148631029987,
+    "lat": 41.902872,
+    "lon": -87.637416
+  },
+  "Pitney Ct": {
+    "street": "Pitney Ct",
+    "flow": 0.02346805736636245,
+    "lat": 41.838528,
+    "lon": -87.662425
+  },
+  "Wacker(upper) Dr": {
+    "street": "Wacker(upper) Dr",
+    "flow": 0.1981747066492829,
+    "lat": 41.888169,
+    "lon": -87.62409
+  },
+  "Franklin Blvd": {
+    "street": "Franklin Blvd",
+    "flow": 0.05084745762711865,
+    "lat": 41.890069,
+    "lon": -87.706392
+  },
+  "109th St": {
+    "street": "109th St",
+    "flow": 0.010430247718383311,
+    "lat": 41.696116,
+    "lon": -87.632637
+  },
+  "Indianapolis Ave": {
+    "street": "Indianapolis Ave",
+    "flow": 0.5019556714471969,
+    "lat": 41.707611,
+    "lon": -87.529702
+  },
+  "Gunnison St": {
+    "street": "Gunnison St",
+    "flow": 0.16036505867014342,
+    "lat": 41.968461,
+    "lon": -87.784013
+  },
+  "Northwest Hwy": {
+    "street": "Northwest Hwy",
+    "flow": 0.1290743155149935,
+    "lat": 41.984243,
+    "lon": -87.784632
+  },
+  "95th ST": {
+    "street": "95th ST",
+    "flow": 0.4445893089960887,
+    "lat": 41.721653,
+    "lon": -87.629162
+  },
+  "95Th St": {
+    "street": "95Th St",
+    "flow": 0.18904823989569752,
+    "lat": 41.722917,
+    "lon": -87.538618
+  },
+  "Burley Ave": {
+    "street": "Burley Ave",
+    "flow": 0.21642764015645372,
+    "lat": 41.739248,
+    "lon": -87.54536
+  },
+  "Ewing Ave": {
+    "street": "Ewing Ave",
+    "flow": 0.08865710560625815,
+    "lat": 41.708489,
+    "lon": -87.535287
+  },
+  "Mackinaw Ave": {
+    "street": "Mackinaw Ave",
+    "flow": 0.17992177314211213,
+    "lat": 41.732854,
+    "lon": -87.542962
+  },
+  "Wacker Dr (lower)": {
+    "street": "Wacker Dr (lower)",
+    "flow": 0.4172099087353325,
+    "lat": 41.876142,
+    "lon": -87.636377
+  },
+  "56th St": {
+    "street": "56th St",
+    "flow": 0.1773142112125163,
+    "lat": 41.793359,
+    "lon": -87.587904
+  },
+  "Drexel Blvd": {
+    "street": "Drexel Blvd",
+    "flow": 0.08604954367666232,
+    "lat": 41.802286,
+    "lon": -87.603784
+  },
+  "Oakwood Blvd": {
+    "street": "Oakwood Blvd",
+    "flow": 0.06388526727509779,
+    "lat": 41.823134,
+    "lon": -87.605367
+  },
+  "83rd Pl": {
+    "street": "83rd Pl",
+    "flow": 0.01694915254237288,
+    "lat": 41.743472,
+    "lon": -87.550548
+  },
+  "Marine Dr": {
+    "street": "Marine Dr",
+    "flow": 0.0847457627118644,
+    "lat": 41.971671,
+    "lon": -87.650428
+  },
+  "Higgins Rd": {
+    "street": "Higgins Rd",
+    "flow": 0.41851368970013036,
+    "lat": 41.988761,
+    "lon": -87.854842
+  },
+  "Talcott Ave": {
+    "street": "Talcott Ave",
+    "flow": 0.16036505867014342,
+    "lat": 41.988619,
+    "lon": -87.812789
+  },
+  "Canfield Ave": {
+    "street": "Canfield Ave",
+    "flow": 0.21773142112125163,
+    "lat": 41.988233,
+    "lon": -87.822826
+  },
+  "Richards Dr": {
+    "street": "Richards Dr",
+    "flow": 0.10691003911342895,
+    "lat": 41.778678,
+    "lon": -87.579568
+  },
+  "South Water Upper Ave": {
+    "street": "South Water Upper Ave",
+    "flow": 0.07561929595827901,
+    "lat": 41.886919,
+    "lon": -87.621577
+  },
+  "Coast Guard Dr": {
+    "street": "Coast Guard Dr",
+    "flow": 0.6962190352020861,
+    "lat": 41.777523,
+    "lon": -87.575589
+  },
+  "122nd St": {
+    "street": "122nd St",
+    "flow": 0.054758800521512385,
+    "lat": 41.673764,
+    "lon": -87.560855
+  }
+}
