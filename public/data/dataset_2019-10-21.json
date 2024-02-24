@@ -1,0 +1,2072 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.06060606060606061,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.12121212121212122,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3463203463203463,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.12121212121212122,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.12987012987012986,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3593073593073593,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.045714285714285714,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.03428571428571429,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.28,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.17714285714285713,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.21714285714285714,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.26285714285714284,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.08888888888888889,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.011111111111111112,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2722222222222222,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.06666666666666667,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.15,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.24444444444444444,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.17424242424242425,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.056818181818181816,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.20075757575757575,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.05303030303030303,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.08712121212121213,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.06818181818181818,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.3677581863979849,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.05289672544080604,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2770780856423174,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.16120906801007556,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.12090680100755667,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.08060453400503778,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.27666666666666667,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.06666666666666667,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2783333333333333,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.12666666666666668,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.10666666666666667,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.24166666666666667,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.21625,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.105,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.21875,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.1,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2025,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2675,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.13340448239060831,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.025613660618996798,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.09498399146211313,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.0672358591248666,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2742796157950907,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3052294557097118,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.0668724279835391,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.11934156378600823,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.1779835390946502,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.09567901234567901,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.3065843621399177,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.26440329218106995,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.07430340557275542,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.08771929824561403,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.21362229102167182,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.11042311661506708,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2476780185758514,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.13828689370485037,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.12192262602579132,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.11371629542790153,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.35756154747948415,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.16295427901524032,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2731535756154748,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.25205158264947247,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.20666666666666667,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.19666666666666666,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.35444444444444445,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.1922222222222222,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.36333333333333334,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.31444444444444447,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.19282511210762332,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.15134529147982062,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2769058295964126,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.15022421524663676,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2320627802690583,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.27802690582959644,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.19123505976095617,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.17729083665338646,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2818725099601594,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.13645418326693226,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.26294820717131473,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.22808764940239043,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.30759493670886073,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.21265822784810126,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.4012658227848101,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.14556962025316456,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.4050632911392405,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.2974683544303797,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.23827629911280102,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2002534854245881,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.35994930291508237,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.12801013941698353,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.376425855513308,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.30164765525982257,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2020460358056266,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.18797953964194372,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3516624040920716,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.1278772378516624,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.2979539641943734,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.19437340153452684,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.17018469656992086,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.15567282321899736,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.4313984168865435,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.13060686015831136,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.32717678100263853,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.21108179419525067,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.03961748633879782,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.05327868852459016,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.23770491803278687,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.05874316939890711,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.3866120218579235,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.09972677595628415,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.016643550624133148,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.10957004160887657,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.04160887656033287,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.20665742024965325,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.016643550624133148,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.05781057810578106,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.08487084870848709,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.21033210332103322,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.1057810578105781,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.14637146371463713,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.0897908979089791,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.007633587786259542,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.03307888040712468,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.16412213740458015,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.05216284987277354,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.6743002544529262,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3816793893129771,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "34512",
+      "RoadwayName": "AMSTERDAM AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74th Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0,
+      "Latitude": "40.7804401",
+      "Longitude": "-73.9838547"
+    },
+    {
+      "SegmentID": "23057",
+      "RoadwayName": "BROADWAY",
+      "From": "Beaver Street",
+      "To": "Lexington Avenue Line",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.04558011049723757,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "23396",
+      "RoadwayName": "CHURCH STREET",
+      "From": "Duane St",
+      "To": "Reade St",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 1,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "31548",
+      "RoadwayName": "HUDSON STREET",
+      "From": "Duane Street",
+      "To": "Duane Street",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.06353591160220995,
+      "Latitude": "40.7173438",
+      "Longitude": "-74.009633"
+    },
+    {
+      "SegmentID": "23561",
+      "RoadwayName": "LAFAYETTE STREET",
+      "From": "Centre Street",
+      "To": "Duane Street",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.15469613259668508,
+      "Latitude": "40.7267105",
+      "Longitude": "-73.9940763"
+    },
+    {
+      "SegmentID": "23207",
+      "RoadwayName": "LIBERTY STREET",
+      "From": "Liberty Place",
+      "To": "Broadway",
+      "Direction": "EB",
+      "Date": "2019-10-21",
+      "flow": 0.0925414364640884,
+      "Latitude": "40.7092514",
+      "Longitude": "-74.0091632"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "NB",
+      "Date": "2019-10-21",
+      "flow": 0.5732044198895028,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    },
+    {
+      "SegmentID": "22995",
+      "RoadwayName": "STATE STREET",
+      "From": "Bridge Street",
+      "To": "Battery Place",
+      "Direction": "SB",
+      "Date": "2019-10-21",
+      "flow": 0.3756906077348066,
+      "Latitude": "40.7025343",
+      "Longitude": "-74.0139849"
+    }
+  ]
+}

@@ -1,0 +1,1819 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.33641975308641975,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9598765432098766,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.42592592592592593,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.36728395061728397,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.3395061728395062,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.31906614785992216,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6342412451361867,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.38132295719844356,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2607003891050584,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2607003891050584,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.34545454545454546,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6787878787878788,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4666666666666667,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.20606060606060606,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.21212121212121213,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.14965986394557823,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6122448979591837,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.3469387755102041,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9659863945578231,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.17687074829931973,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.07951070336391437,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.24464831804281345,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.0581039755351682,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.5902140672782875,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.09174311926605505,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.008187134502923977,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.07134502923976609,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.18128654970760233,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.3672514619883041,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.021052631578947368,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.13026819923371646,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.21455938697318008,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4112388250319285,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7445721583652618,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.07279693486590039,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.016666666666666666,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.48846153846153845,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4115384615384615,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.8448717948717949,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.15128205128205127,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.5723830734966593,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.46770601336302897,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7238307349665924,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.10467706013363029,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.15701559020044542,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7196796338672768,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.35583524027459956,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6842105263157895,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.12700228832951946,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.14988558352402745,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.8111888111888111,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4027972027972028,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7846153846153846,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.26153846153846155,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.22237762237762237,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9624413145539906,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.40375586854460094,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.8028169014084507,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.4444444444444444,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.25821596244131456,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9839285714285714,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.32142857142857145,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9107142857142857,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.3875,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.20892857142857144,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.8312693498452013,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.3544891640866873,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7291021671826625,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.33126934984520123,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.14705882352941177,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.3360128617363344,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.8295819935691319,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2845659163987138,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.9598070739549839,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.14790996784565916,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7779456193353474,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.2537764350453172,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.797583081570997,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2990936555891239,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.08761329305135952,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6067708333333334,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.3671875,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.68359375,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2903645833333333,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.12239583333333333,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.5517661388550548,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.3982947624847747,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6711327649208283,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.30085261875761266,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2789281364190012,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7800212539851222,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4261424017003188,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6695005313496281,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.332624867162593,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2975557917109458,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6783691959229898,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6613816534541337,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6489241223103058,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.2627406568516421,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.4190260475651189,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6747967479674797,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.5749128919860628,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.7444831591173054,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.31126596980255516,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.445993031358885,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.41822173435784854,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.5016465422612514,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.6498353457738749,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.23161361141602635,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.41712403951701427,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "67971",
+      "RoadwayName": "48ST STREET",
+      "From": "Northern Boulevard",
+      "To": "37th Ave",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.379978471474704,
+      "Latitude": "40.7530794",
+      "Longitude": "-73.9062074"
+    },
+    {
+      "SegmentID": "36036",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4133476856835307,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    },
+    {
+      "SegmentID": "37374",
+      "RoadwayName": "5TH AVENUE",
+      "From": "East 73rd Street",
+      "To": "East 74th Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 0.4520990312163617,
+      "Latitude": "40.766698",
+      "Longitude": "-73.9511901"
+    },
+    {
+      "SegmentID": "158767",
+      "RoadwayName": "BROADWAY",
+      "From": "West 99th Street",
+      "To": "West 100th Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.18191603875134554,
+      "Latitude": "40.8020029",
+      "Longitude": "-73.9679456"
+    },
+    {
+      "SegmentID": "37085",
+      "RoadwayName": "COLUMBUS AVENUE",
+      "From": "West 73rd Street",
+      "To": "West 74rd Street",
+      "Direction": "SB",
+      "Date": "2019-11-18",
+      "flow": 1,
+      "Latitude": "40.7998673",
+      "Longitude": "-73.9624226"
+    },
+    {
+      "SegmentID": "36169",
+      "RoadwayName": "MADISON AVENUE",
+      "From": "East 61st Street",
+      "To": "East 62nd Street",
+      "Direction": "NB",
+      "Date": "2019-11-18",
+      "flow": 0.40904198062432723,
+      "Latitude": "40.616553",
+      "Longitude": "-73.916486"
+    }
+  ]
+}

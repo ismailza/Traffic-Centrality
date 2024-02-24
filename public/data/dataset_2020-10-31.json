@@ -1,0 +1,1313 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.22045454545454546,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.03409090909090909,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.31136363636363634,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.281786941580756,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.1134020618556701,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.38144329896907214,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.16161616161616163,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.020202020202020204,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.31313131313131315,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.15770609318996415,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.02867383512544803,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.22580645161290322,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.23054755043227665,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0.020172910662824207,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.31988472622478387,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4114713216957606,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0.004987531172069825,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.5411471321695761,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.26556776556776557,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.08974358974358974,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.5732600732600732,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.24675324675324675,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.025974025974025976,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.5308441558441559,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4357142857142857,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.09642857142857143,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.8125,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4713855421686747,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.061746987951807226,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.8283132530120482,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.49740932642487046,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.05181347150259067,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.6139896373056994,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.425947187141217,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.029850746268656716,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.46383467278989665,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4948571428571429,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.032,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.38057142857142856,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.5768056968463886,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.07121057985757884,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.4842319430315361,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4833164812942366,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.057633973710819006,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.4883720930232558,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4601226993865031,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.010224948875255624,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.4488752556237219,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.44223107569721115,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.013944223107569721,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.3745019920318725,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.42717391304347824,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.010869565217391304,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.5130434782608696,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4178454842219804,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.023939064200217627,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.661588683351469,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.4355044699872286,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0.037037037037037035,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.6551724137931034,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.3553615960099751,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.02119700748129676,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.527431421446384,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.3622589531680441,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0.023415977961432508,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.5702479338842975,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "145398",
+      "RoadwayName": "CROSS BAY BOULEVARD",
+      "From": "165th Avenue",
+      "To": "East 6th Rd",
+      "Direction": "SB",
+      "Date": "2020-10-31",
+      "flow": 0.24312590448625182,
+      "Latitude": "40.6491463",
+      "Longitude": "-73.8372764"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 0,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "19244",
+      "RoadwayName": "KINGS HIGHWAY",
+      "From": "West 12th Street",
+      "To": "West 11th Street",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.001447178002894356,
+      "Latitude": "40.5747728",
+      "Longitude": "-73.9796628"
+    },
+    {
+      "SegmentID": "50676",
+      "RoadwayName": "SOUTH CONDUIT AVENUE",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2020-10-31",
+      "flow": 1,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    },
+    {
+      "SegmentID": "256878",
+      "RoadwayName": "PARK AVENUE",
+      "From": "Ryerson Street",
+      "To": "Grand Avenue",
+      "Direction": "WB",
+      "Date": "2020-10-31",
+      "flow": 0.6193921852387844,
+      "Latitude": "40.7514645",
+      "Longitude": "-73.9779934"
+    }
+  ]
+}

@@ -1,0 +1,1566 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5977011494252874,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.9885057471264368,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.8160919540229885,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.45977011494252873,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.4925373134328358,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.9253731343283582,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.47761194029850745,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.40298507462686567,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5189873417721519,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.5822784810126582,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.3037974683544304,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6962025316455697,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.3867924528301887,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.46226415094339623,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.10377358490566038,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.330188679245283,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.34798534798534797,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.2271062271062271,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.14285714285714285,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.23443223443223443,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.38235294117647056,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.06209150326797386,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.20588235294117646,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.06535947712418301,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6375321336760925,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8868894601542416,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.35475578406169667,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5938303341902313,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.8083832335329342,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0.7125748502994012,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6766467065868264,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5718562874251497,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.9808429118773946,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6398467432950191,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.38697318007662834,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.06130268199233716,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.771484375,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.767578125,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.703125,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.390625,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.7777777777777778,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6819923371647509,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5977011494252874,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.4578544061302682,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.847682119205298,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.5673289183222958,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.7196467991169978,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6313465783664459,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.7835671342685371,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6893787575150301,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6833667334669339,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.48296593186372744,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.8979206049149339,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8204158790170132,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6710775047258979,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.7013232514177694,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.981549815498155,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8099630996309963,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6660516605166051,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.4907749077490775,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.9107142857142857,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8650793650793651,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5793650793650794,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.35119047619047616,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8315018315018315,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0.5787545787545788,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.4981684981684982,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.3626373626373626,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.8262195121951219,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0.5152439024390244,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.6554878048780488,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.47865853658536583,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6224899598393574,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.9437751004016064,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0.42168674698795183,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.3654618473895582,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.42410714285714285,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.9732142857142857,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0.21875,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6517857142857143,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.23255813953488372,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.8558139534883721,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6186046511627907,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.15813953488372093,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.3852813852813853,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.7705627705627706,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.6623376623376623,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.1645021645021645,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "155864",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5482456140350878,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "156973",
+      "RoadwayName": "11TH STREET",
+      "From": "47th Avenue",
+      "To": "47th Road",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.706140350877193,
+      "Latitude": "40.7505577",
+      "Longitude": "-73.7917086"
+    },
+    {
+      "SegmentID": "150536",
+      "RoadwayName": "Francis Lewis Boulevard",
+      "From": "Dead End",
+      "To": "200 Street",
+      "Direction": "WB",
+      "Date": "2019-11-14",
+      "flow": 0,
+      "Latitude": "40.7135593",
+      "Longitude": "-73.753829"
+    },
+    {
+      "SegmentID": "29565",
+      "RoadwayName": "FRANKLIN AVENUE",
+      "From": "Hancock Street",
+      "To": "Fulton Street",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 1,
+      "Latitude": "40.6706813",
+      "Longitude": "-73.9579734"
+    },
+    {
+      "SegmentID": "43033",
+      "RoadwayName": "THROOP AVENUE",
+      "From": "Jefferson Avenue",
+      "To": "Hancock Street",
+      "Direction": "NB",
+      "Date": "2019-11-14",
+      "flow": 0.5263157894736842,
+      "Latitude": "40.8722356",
+      "Longitude": "-73.8507951"
+    },
+    {
+      "SegmentID": "36705",
+      "RoadwayName": "VERNON BOULEVARD",
+      "From": "46th Road",
+      "To": "47th Avenue",
+      "Direction": "SB",
+      "Date": "2019-11-14",
+      "flow": 0.24561403508771928,
+      "Latitude": "40.7527826",
+      "Longitude": "-73.7909966"
+    }
+  ]
+}

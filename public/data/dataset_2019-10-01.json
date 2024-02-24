@@ -1,0 +1,2072 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.26635514018691586,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.15186915887850466,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.15654205607476634,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.02102803738317757,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.07710280373831775,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.1822429906542056,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.08411214953271028,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.19808306709265175,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.1597444089456869,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.1597444089456869,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.04792332268370607,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.06070287539936102,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.14057507987220447,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.04472843450479233,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.09615384615384616,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.15384615384615385,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.0989010989010989,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.019230769230769232,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.04120879120879121,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.07142857142857142,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.07784431137724551,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.18163672654690619,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.05588822355289421,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.00998003992015968,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.05189620758483034,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.03592814371257485,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.1612223393045311,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.34562697576396206,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.05690200210748156,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.020021074815595362,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.11169652265542676,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.018967334035827187,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.30517115804806993,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.9337217771303714,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.08812818645302258,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.029133284777858703,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.06846321922796796,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.1930080116533139,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.49362174154187466,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.16638935108153077,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.12590127565169162,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.052135330005546314,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.21408763172490294,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.8679977814753189,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.5932400932400932,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.8368298368298368,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.19114219114219114,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.12645687645687645,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.12937062937062938,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.3339160839160839,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4953343701399689,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.604199066874028,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.223950233281493,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.13608087091757387,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.1780715396578538,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.47200622083981336,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.45125786163522014,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.3805031446540881,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.22641509433962265,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.1029874213836478,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.1761006289308176,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.5094339622641509,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4951111111111111,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.408,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.2986666666666667,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.048,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.19733333333333333,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.5155555555555555,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4496541122213682,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.3466564181398924,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.21368178324365872,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.06840891621829362,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.14142966948501154,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.504227517294389,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4376881396748946,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.2956050571944612,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.16315472606863335,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.021673690547862733,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.09993979530403371,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.320891029500301,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.30971374941342095,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.2726419521351478,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.1004223369310183,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.035194744251525106,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.0680431722196152,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.38057250117315816,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4790598290598291,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.25982905982905985,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.09444444444444444,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.07222222222222222,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.10726495726495726,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.2863247863247863,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.6905693176879617,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.25467188179052586,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.020425901781833986,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.0217296827466319,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.062146892655367235,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.16427640156453716,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.9008264462809917,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.32927359721618094,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.21400608960417572,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.04784688995215311,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.03349282296650718,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.1635493692909961,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.6580447172292854,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.28540113985094256,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.19114423498465585,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.028496273564226217,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.027181060938185005,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.10170977641385358,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.4458570802279702,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.20035072336694432,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.22621657167908812,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.04910127137220517,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.0526085050416484,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.00043840420868040335,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.3965744400527009,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.1976284584980237,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.22793148880105402,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.04259991216512956,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0.013175230566534914,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.05314009661835749,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.36943375481033536,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.16327652556349642,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.159978009895547,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.007146783947223749,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.04288070368334249,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.0016492578339747114,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.30960608154803043,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.16516931582584657,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.1575673807878369,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.0034554250172771253,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.07671043538355218,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.023496890117484452,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.31265930331350894,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "180547",
+      "RoadwayName": "Hillside Avenue",
+      "From": "192 Street",
+      "To": "193 Street",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.1937128292268479,
+      "Latitude": "40.738896",
+      "Longitude": "-73.700983"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.1988105352591334,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "19248",
+      "RoadwayName": "Kings Highway",
+      "From": "West 11 Street",
+      "To": "Quentin Road",
+      "Direction": "WB",
+      "Date": "2019-10-01",
+      "flow": 0.08326253186066271,
+      "Latitude": "40.7353375",
+      "Longitude": "-73.9981465"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "NB",
+      "Date": "2019-10-01",
+      "flow": 0,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "25210",
+      "RoadwayName": "Mcdonald Avenue",
+      "From": "Avenue S",
+      "To": "Avenue T",
+      "Direction": "SB",
+      "Date": "2019-10-01",
+      "flow": 0.1469838572642311,
+      "Latitude": "40.610228",
+      "Longitude": "-73.9306"
+    },
+    {
+      "SegmentID": "50823",
+      "RoadwayName": "South Conduit Avenue",
+      "From": "Belmont Avenue",
+      "To": "Eldert Lane",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 1,
+      "Latitude": "40.666549",
+      "Longitude": "-73.8376823"
+    },
+    {
+      "SegmentID": "50660",
+      "RoadwayName": "Sutter Avenue",
+      "From": "Hemlock Street",
+      "To": "Autumn Avenue",
+      "Direction": "EB",
+      "Date": "2019-10-01",
+      "flow": 0.09770603228547153,
+      "Latitude": "40.684704",
+      "Longitude": "-73.8713701"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "1:00-2:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "2:00-3:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "3:00-4:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "4:00-5:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "5:00-6:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "6:00-7:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "7:00-8:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "8:00-9:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "9:00-10:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "10:00-11:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "11:00-12:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "12:00-1:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "1:00-2:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "2:00-3:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "3:00-4:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "4:00-5:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "5:00-6:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "6:00-7:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "7:00-8:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "8:00-9:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "9:00-10:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "10:00-11:00PM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ],
+  "11:00-12:00AM": [
+    {
+      "SegmentID": "271349",
+      "RoadwayName": "WEST 53rd STREET",
+      "From": "5th Avenue",
+      "To": "6th Avenue",
+      "Direction": "WB",
+      "Date": "2020-12-05",
+      "flow": 0,
+      "Latitude": "40.7647467",
+      "Longitude": "-73.9726829"
+    }
+  ]
+}
