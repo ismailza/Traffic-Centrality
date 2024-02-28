@@ -21,7 +21,7 @@ const MapComponent = ({ url, mapCenter, positions }) => {
           index={index}
           position={marker.position}
           title={marker.title}
-          description={'lat: ' + marker.position[0] + ', lng: ' + marker.position[1]}
+          description={'lat: ' + marker.position[0] + ', lng: ' + marker.position[1]+ '\n Direction: ' + marker.direction  }
           value={marker.value}
         />
       ))}

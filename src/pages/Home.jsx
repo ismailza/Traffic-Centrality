@@ -56,6 +56,7 @@ const Home = () => {
         from: entry.From,
         to: entry.To,
         title: entry.RoadwayName,
+        direction: entry.Direction,
         value: entry.flow,
       }));
       setPositions(positions);
@@ -66,10 +67,15 @@ const Home = () => {
     }
   };
 
+  const updateMap = () => {
+    setLoading(true);
+    fetchData().finally(() => setLoading(false));
+  }
+
   useEffect(() => {
     setLoading(true);
     fetchData().finally(() => setLoading(false));
-  }, [year, month, day, time]);
+  }, []);
 
   return (
     loading ? (
@@ -122,6 +128,7 @@ const Home = () => {
                       </select>
                     </div>
                   ))}
+                  <button type="button" className="btn btn-primary" onClick={updateMap}>Update</button>
               </form>
               <MapComponent
                 url={url}
