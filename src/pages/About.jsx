@@ -8,7 +8,7 @@ const About = () => {
 
   const teamMembers = [
     "Ismail ZAHIR",
-    "Khaoula ABBASSI",
+    "Khaoula ABASSI",
     "Mohamed JEBBANEMA",
     "El Mehdi Salah BEN SOUDA"
   ];
