@@ -32,6 +32,29 @@ This project stands at the intersection of modern web development and advanced d
 ### Implementation Insights
 Utilizing Python for implementing the AGNES algorithm afforded us access to robust libraries like pandas and scikit-learn, which are indispensable for data analysis. These libraries provided us with the tools necessary to implement our algorithm from scratch, import data, calculate similarities between street observations, and perform hierarchical clustering of streets into meaningful clusters.
 
+## Deployment
+Our application is containerized for easy deployment using Docker. Here’s how you can pull the Docker image from Docker Hub and run it locally.
+
+### Prerequisites
+Docker installed on your machine. See the [official Docker documentation](https://www.docker.com/get-started/) for installation instructions.
+
+### Pulling the Docker Image
+To pull the latest version of the Docker image for our application from Docker Hub, run the following command in your terminal:
+  ```bash
+  docker pull ismailza/traffic-centrality:latest
+  ```
+
+### Running the Docker Container
+After pulling the image, you can run the application as a Docker container using the following command:
+  ```bash
+  docker run -d -p 5173:5173 ismailza/traffic-centrality:latest
+  ```
+
+### Continuous Integration and Deployment
+Our project utilizes GitHub Actions for Continuous Integration and Deployment (CI/CD), automating the process of building and pushing the Docker image to Docker Hub upon each push to the main branch. This ensures that the latest version of our application is always available for deployment.
+
+For more details on our CI/CD setup, refer to the `.github/workflows/docker-deploy.yml` file in our repository.
+
 ## The Team
 
 This endeavor is a collaborative effort by a group of classmates: [Ismail ZAHIR](https://github.com/ismailza), [Khaoula ABASSI](https://github.com/wahya1), [Mohamed JEBBANEMA](https://github.com/medjebb) and [El Mehdi Salah BEN SOUDA](https://github.com/Mehdi-Ben-Souda). As students in the same class, we combined our expertise and enthusiasm to create a tool that offers insightful visualizations about the significance and connectivity of different locations worldwide.
