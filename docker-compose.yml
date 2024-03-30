@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  # The Application Backend Service
+  # backend:
+  #   build: ./app
+  #   ports:
+  #     - "3000:3000"
+  #   env_file:
+  #     - ./.env
+
+  frontend:
+    build: .
+    ports:
+      - "5173:5173"
+    stdin_open: true
+    tty: true
