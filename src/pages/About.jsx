@@ -32,7 +32,7 @@ const About = () => {
           <div className="p-5 mb-4 bg-light rounded-3 border">
             <div className="container-fluid py-5">
               <h1 className="display-5 fw-bold">About the Kolmogorov Team</h1>
-              <p className="col-md-8 fs-4">
+              <p className="col fs-4">
                 Discover the innovation behind our Map Centrality project. Our team focuses on creating insightful visualizations to explore network centrality in geographic data, revealing new patterns and relationships.
               </p>
             </div>
