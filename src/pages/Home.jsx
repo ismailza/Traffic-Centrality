@@ -60,6 +60,7 @@ const Home = () => {
         from: entry.From,
         to: entry.To,
         title: entry.RoadwayName,
+        direction: entry.Direction,
         value: entry.flow,
       }));
       setPositions(positions);
@@ -68,6 +69,11 @@ const Home = () => {
       setPositions([]);
     }
   };
+
+  const updateMap = () => {
+    setLoading(true);
+    fetchData().finally(() => setLoading(false));
+  }
 
   useEffect(() => {
     if (year && month && day && time) {
