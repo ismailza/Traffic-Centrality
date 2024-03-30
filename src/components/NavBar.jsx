@@ -23,6 +23,7 @@ const NavBar = () => {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href='about'>About us</Nav.Link>
+            <Nav.Link href='classification'>Classification</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="https://github.com/ismailza/Centrality.git" target='blank'><FaGithub className="icon" size={24} color="black"/></Nav.Link>
