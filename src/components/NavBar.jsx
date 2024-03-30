@@ -26,7 +26,7 @@ const NavBar = () => {
             <Nav.Link href='classification'>Classification</Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link href="https://github.com/ismailza/Centrality.git" target='blank'><FaGithub className="icon" size={24} color="black"/></Nav.Link>
+            <Nav.Link href="https://github.com/ismailza/Traffic-Centrality.git" target='blank'><FaGithub className="icon" size={24} color="black"/></Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

@@ -1,7 +1,14 @@
 {
-  "name": "centrality",
+  "name": "traffic-centrality",
+  "description": "A web portal crafted to analyze and visualize traffic centrality within the bustling urban landscape of New York City.",
+  "authors": [
+    "Ismail ZAHIR",
+    "Khaoula ABASSI",
+    "Mohamed JEBBANEMA",
+    "El Mehdi Salah BEN SOUDA"
+  ],
   "private": true,
-  "version": "0.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +16,19 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailza/Traffic-Centrality.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Centrality",
+    "Traffic",
+    "New York City",
+    "Data Analytics",
+    "Data Visualization",
+    "leaflet"
+  ],
   "dependencies": {
     "axios": "^1.6.7",
     "bootstrap": "^5.3.2",
