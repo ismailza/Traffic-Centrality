@@ -1,35 +1,37 @@
-import { useEffect, useState } from "react"
-import NavBar from "../components/NavBar"
-import { CircleLoader } from "react-spinners"
-import Footer from "../components/Footer"
-import ClustersMap from "../components/ClustersMap"
-import FilterBar from "../components/FilterBar"
+import { useEffect, useState } from "react";
+import MapComponent from "../components/CentralityMap";
+import NavBar from "../components/NavBar";
+import { CircleLoader } from "react-spinners";
+import Footer from "../components/Footer";
+import FilterBar from "../components/FilterBar";
 import { toast } from "react-toastify";
-import { useTranslation } from "react-i18next"
+import { useTranslation } from "react-i18next";
 
-const Classification = () => {
+const Centralization = () => {
 
   const { t } = useTranslation();
 
-  const [url] = useState('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
-  const [mapCenter] = useState([40.7128, -74.0060])
-  const [positions, setPositions] = useState([])
-  const [loading, setLoading] = useState(false)
+  const [url] = useState('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+  const [mapCenter] = useState([40.7128, -74.0060]);
+  const [positions, setPositions] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   // State for filters
   const [year, setYear] = useState(2019);
-  const [month, setMonth] = useState(9);
-  const [day, setDay] = useState(22);
-  const [time, setTime] = useState("6:00-7:00AM");
+  const [month, setMonth] = useState(10);
+  const [day, setDay] = useState(12);
+  const [time, setTime] = useState("11:00-12:00AM");
   const [times, setTimes] = useState([]);
-  const years = Array.from({ length: 2022 - 2019 }, (_, i) => 2021 - i)
-  const months = Array.from({ length: 12 }, (_, i) => i + 1)
-  const days = Array.from({ length: 31 }, (_, i) => i + 1)
+
+  // Filter options for years, months, and days
+  const years = Array.from({ length: 2022 - 2019 }, (_, i) => 2021 - i);
+  const months = Array.from({ length: 12 }, (_, i) => i + 1);
+  const days = Array.from({ length: 31 }, (_, i) => i + 1);
 
   const fetchData = async () => {
     // Construct dataset URL with current filters
     const formattedDate = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-    const datasetUrl = `clustering/dataset_${formattedDate}.json`;
+    const datasetUrl = `data/dataset_${formattedDate}.json`;
 
     try {
       const response = await fetch(datasetUrl);
@@ -48,42 +50,34 @@ const Classification = () => {
     }
   };
 
-  const calculateCentroid = (cluster) => {
-    const latitudes = cluster.map(point => point.Latitude);
-    const longitudes = cluster.map(point => point.Longitude);
-    const centroidLat = latitudes.reduce((a, b) => a + b, 0) / latitudes.length;
-    const centroidLon = longitudes.reduce((a, b) => a + b, 0) / longitudes.length;
-    return [centroidLat, centroidLon];
-  };
+  const processDataset = (fetchedData) => {
+    if (fetchedData) {
+      const selectedData = fetchedData[time];
+      if (!selectedData) {
+        toast.error("No data available for the selected time slot.");
+        setPositions([]);
+        return;
+      }
 
-  const calculateMaxDistance = (centroid, cluster) => {
-    return Math.max(...cluster.map(point => {
-      const latDiff = point.Latitude - centroid[0];
-      const lonDiff = point.Longitude - centroid[1];
-      return Math.sqrt(latDiff * latDiff + lonDiff * lonDiff);
-    }));
-  };
-
-  const processDataset = async (data) => {
-    if (data && data[time]) {
-      const processedClusters = await data[time].map(cluster => {
-        const centroid = calculateCentroid(cluster);
-        const maxDistance = calculateMaxDistance(centroid, cluster);
-        return {
-          positions: cluster.map(entry => ({
-            position: [`${entry.Latitude}`, `${entry.Longitude}`],
-            value: entry.flow,
-          })),
-          centroid,
-          maxDistance
-        };
-      });
-      setPositions(processedClusters);
+      const positions = selectedData.map(entry => ({
+        position: [entry.Latitude, entry.Longitude],
+        from: entry.From,
+        to: entry.To,
+        title: entry.RoadwayName,
+        direction: entry.Direction,
+        value: entry.flow,
+      }));
+      setPositions(positions);
     } else {
       toast.error("No data available for the selected time slot.");
       setPositions([]);
     }
   };
+
+  const updateMap = () => {
+    setLoading(true);
+    fetchData().finally(() => setLoading(false));
+  }
 
   useEffect(() => {
     if (year && month && day && time) {
@@ -122,15 +116,15 @@ const Classification = () => {
           <div className="container mt-2">
             <header className="text-center mb-4">
               <h1 className="mb-3">
-                {t('classificationTitle')}
+                {t('centralizationTitle')}
               </h1>
               <p className="lead">
-                {t('classificationSubtitle')}
+                {t('centralizationSubtitle')}
               </p>
             </header>
             <main>
               <FilterBar years={years} year={year} setYear={setYear} months={months} month={month} setMonth={setMonth} days={days} day={day} setDay={setDay} times={times} time={time} setTime={setTime} handleFilterChange={handleFilterChange} />
-              <ClustersMap
+              <MapComponent
                 url={url}
                 mapCenter={mapCenter}
                 positions={positions}
@@ -144,4 +138,4 @@ const Classification = () => {
   );
 }
 
-export default Classification
+export default Centralization;

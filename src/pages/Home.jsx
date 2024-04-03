@@ -1,99 +1,24 @@
 import { useEffect, useState } from "react";
-import MapComponent from "../components/CentralityMap";
 import NavBar from "../components/NavBar";
 import { CircleLoader } from "react-spinners";
 import Footer from "../components/Footer";
-import FilterBar from "../components/FilterBar";
-import { toast } from "react-toastify";
+import { useTranslation } from "react-i18next";
+import { Container, Grid, Paper, Typography } from "@mui/material";
 
 const Home = () => {
-  const [url] = useState('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-  const [mapCenter] = useState([40.7128, -74.0060]);
-  const [positions, setPositions] = useState([]);
+
+  const { t } = useTranslation();
+
   const [loading, setLoading] = useState(true);
 
-  // State for filters
-  const [year, setYear] = useState(2019);
-  const [month, setMonth] = useState(10);
-  const [day, setDay] = useState(12);
-  const [time, setTime] = useState("11:00-12:00AM");
-  const [times, setTimes] = useState([]);
-
-  // Filter options for years, months, and days
-  const years = Array.from({ length: 2022 - 2019 }, (_, i) => 2021 - i);
-  const months = Array.from({ length: 12 }, (_, i) => i + 1);
-  const days = Array.from({ length: 31 }, (_, i) => i + 1);
-
-  const fetchData = async () => {
-    // Construct dataset URL with current filters
-    const formattedDate = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-    const datasetUrl = `data/dataset_${formattedDate}.json`;
-
-    try {
-      const response = await fetch(datasetUrl);
-      if (!response.ok) throw new Error('Network response was not ok');
-      const fetchedData = await response.json();
-
-      // Update the time slots based on the fetched data
-      const fetchedTimes = Object.keys(fetchedData);
-      setTimes(fetchedTimes);
-
-      processDataset(fetchedData);
-    } catch (error) {
-      toast.error("Failed to fetch data. Please try again later.");
-      console.error("Failed to fetch data:", error);
-      setPositions([]);
-    }
-  };
-
-  const processDataset = (fetchedData) => {
-    if (fetchedData) {
-      const selectedData = fetchedData[time];
-      if (!selectedData) {
-        toast.error("No data available for the selected time slot.");
-        setPositions([]);
-        return;
-      }
-
-      const positions = selectedData.map(entry => ({
-        position: [entry.Latitude, entry.Longitude],
-        from: entry.From,
-        to: entry.To,
-        title: entry.RoadwayName,
-        direction: entry.Direction,
-        value: entry.flow,
-      }));
-      setPositions(positions);
-    } else {
-      toast.error("No data available for the selected time slot.");
-      setPositions([]);
-    }
-  };
-
-  const updateMap = () => {
-    setLoading(true);
-    fetchData().finally(() => setLoading(false));
-  }
-
   useEffect(() => {
-    if (year && month && day && time) {
-      setLoading(true);
-      fetchData().finally(() => setLoading(false));
-    }
+    setTimeout(() => {
+      setLoading(false);
+    }, 1000);
   }, []);
 
-  useEffect(() => {
-    if (times.length > 0 && !times.includes(time)) {
-      setTime(times[0]);
-    }
-  }, [times]);
-
-  const handleFilterChange = (e) => {
-    if (year && month && day && time) {
-      setLoading(true);
-      fetchData().finally(() => setLoading(false));
-    }
-  }
+  const features = t("featuresList", { returnObjects: true });
+  const technologies = t("technologiesUsedList", { returnObjects: true });
 
   return (
     loading ? (
@@ -112,27 +37,64 @@ const Home = () => {
           <div className="container mt-2">
             <header className="text-center mb-4">
               <h1 className="mb-3">
-                Traffic Centrality Map of the New York City
+                {t('projectTitle')}
               </h1>
               <p className="lead">
-                Explore the heart of connectivity and significance across locations with our Map Centrality project. Dive into dynamic visualizations that bring data to life, uncovering patterns and insights in geographic centrality.
+                {t('overview')}
               </p>
             </header>
-            <main
-              style={{
-                display: 'flex',
-                justifyContent: 'center',
-                alignItems: 'center',
-                flexDirection: 'column'
-              }}
-            >
-              <FilterBar years={years} year={year} setYear={setYear} months={months} month={month} setMonth={setMonth} days={days} day={day} setDay={setDay} times={times} time={time} setTime={setTime} handleFilterChange={handleFilterChange} />
-              <MapComponent
-                url={url}
-                mapCenter={mapCenter}
-                positions={positions}
-              />
-            </main>
+            <Container>
+              <section className="my-4 features">
+                <h2 className="text-center">Feautres</h2>
+                <Grid item xs={12}>
+                  <Paper elevation={3} className="p-3">
+                    <ul className="text-start">
+                      {features.map((feature, index) => (
+                        <li key={index}>{feature}</li>
+                      ))}
+                    </ul>
+                  </Paper>
+                </Grid>
+              </section>
+
+              <section className="my-4 technologies">
+                <h2 className="text-center">{t('technologiesUsedTitle')}</h2>
+                <p className="text-center">
+                  {t('technologiesUsedSubtitle')}
+                </p>
+                <Grid container spacing={4}>
+                  {technologies.map((techCategory, index) => (
+                    <Grid item xs={12} md={4} key={index}>
+                      <Paper elevation={3} className="p-3">
+                        <Typography variant="h5">{techCategory.category}</Typography>
+                        <ul className="text-start mt-2">
+                          {techCategory.items.map((item, itemIndex) => {
+                            const [techName, techDescription] = item.split(": ", 2);
+                            return (
+                              <li key={itemIndex}>
+                                <strong>{techName}:</strong> {techDescription}
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      </Paper>
+                    </Grid>
+                  ))}
+                </Grid>
+              </section>
+              <section className="my-4 insights">
+                <h2 className="text-center">{t('implementationInsightsTitle')}</h2>
+                <p className="text-center">
+                  {t('implementationInsightsDescription')}
+                </p>
+              </section>
+              <section className="my-4 acknowledgments">
+                <h2 className="text-center">{t('acknowledgmentsTitle')}</h2>
+                <p className="text-center">
+                  {t('acknowledgmentsText')}
+                </p>
+              </section>
+            </Container>
           </div>
         </div>
         <Footer />
