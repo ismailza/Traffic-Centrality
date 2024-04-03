@@ -1,7 +1,7 @@
-# Traffic Centrality Map Visualization
+# Centralization and Classification of New York City Traffic
 
 ## Overview
-In a collaborative effort, the **Kolmogorov** Team presents the **Traffic Centrality Map Visualization project**. Developed as part of the **Object/IoT Technologies workshop**, this advanced web portal is crafted to analyze and visualize traffic centrality within the bustling urban landscape of **New York City**.
+In a collaborative effort, the **Kolmogorov** Team presents the **Centralization and Classification of New York City Traffic project**. Developed as part of the **Object/IoT Technologies workshop**, this advanced web portal is crafted to analyze and visualize traffic centrality within the bustling urban landscape of **New York City**.
 
 Leveraging the power of `React` and `Leaflet` for responsive map rendering, our portal introduces an innovative approach to visualizing traffic flow and connectivity across diverse locations. The core of our system is powered by the `AGNES` (Agglomerative Nesting) algorithm, enabling sophisticated data classification, segmentation, and enhanced visualization of centrality metrics. This integration not only boosts user engagement but also sharpens the analytical depth, offering nuanced insights into the city's structural dynamics.
 
@@ -10,6 +10,8 @@ Leveraging the power of `React` and `Leaflet` for responsive map rendering, our 
 - Filterable data based on year, month, day, and time slots.
 - Color-coded clusters to represent different traffic flows.
 - Detailed information on traffic flow accessible via map markers.
+- Responsive design for optimal viewing on desktop and mobile devices.
+- Multi-language support for a global audience.
 
 ## Technologies Used
 This project stands at the intersection of modern web development and advanced data science, leveraging a stack that combines the responsiveness of web interfaces with the computational power of data analysis algorithms.
@@ -18,6 +20,9 @@ This project stands at the intersection of modern web development and advanced d
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Leaflet](https://leafletjs.com/): An open-source JavaScript library for mobile-friendly interactive maps.
 - [react-leaflet](https://react-leaflet.js.org/): React components for Leaflet maps.
+- [Material-UI](https://material-ui.com/): Provides a suite of beautifully designed UI components that enhance the application's aesthetics and user experience.
+- [Bootstrap](https://getbootstrap.com/): Offers a responsive design library that ensures the application looks great on all devices.
+- [i18next](https://www.i18next.com/): A powerful internationalization framework for translating web applications into multiple languages.
 
 ### Data Analysis and Clustering
 - **Python**: Serves as the backbone for implementing data analysis algorithms, benefiting from a rich ecosystem of libraries for numerical and scientific computing.
