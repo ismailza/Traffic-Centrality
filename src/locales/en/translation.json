@@ -1,0 +1,74 @@
+{
+  "projectTitle": "Centralization and Classification of New York City Traffic",
+  "overview": "In a collaborative effort, the Kolmogorov Team presents the \"Centralization and Classification of New York City Traffic\" project. Developed as part of the Object/IoT Technologies workshop, this advanced web portal is crafted to analyze and visualize traffic centrality within the bustling urban landscape of New York City.",
+  "navLinks": [
+    {
+      "label": "About us",
+      "link": "/about"
+    },
+    {
+      "label": "Centralization",
+      "link": "/centralization"
+    },
+    {
+      "label": "Classification",
+      "link": "/classification"
+    }
+  ],
+  "featuresTitle": "Features",
+  "featuresList": [
+    "Dynamic map visualization with zoom and pan functionalities.",
+    "Filterable data based on year, month, day, and time slots.",
+    "Color-coded clusters to represent different traffic flows.",
+    "Detailed information on traffic flow accessible via map markers.",
+    "Responsive design for optimal viewing on desktop and mobile devices.",
+    "Multi-language support for a global audience."
+  ],
+  "technologiesUsedTitle": "Technologies Used",
+  "technologiesUsedSubtitle": "This project stands at the intersection of modern web development and advanced data science, leveraging a stack that combines the responsiveness of web interfaces with the computational power of data analysis algorithms.",
+  "technologiesUsedList": [
+    {
+      "category": "Frontend Development",
+      "items": [
+        "React: Powers the dynamic user interface, enhancing user interaction with real-time feedback.",
+        "Leaflet: Provides the interactive map visualization, enabling users to explore traffic data effectively.",
+        "React-Leaflet: Integrates Leaflet with React, ensuring seamless rendering of the map component.",
+        "Material-UI: Provides a suite of beautifully designed UI components that enhance the application's aesthetics and user experience.",
+        "Bootstrap: Offers a responsive design library that ensures the application looks great on all devices."
+      ]
+    },
+    {
+      "category": "Data Analysis and Clustering",
+      "items": [
+        "Python: Serves as the backbone for implementing data analysis algorithms, benefiting from a rich ecosystem of libraries for numerical and scientific computing.",
+        "AGNES (Agglomerative Nesting): At the core of our data classification strategy, AGNES enables hierarchical clustering by calculating similarities between observations.",
+        "Python Libraries: Leveraged powerful libraries such as pandas for data manipulation and scikit-learn for implementing the AGNES algorithm."
+      ]
+    },
+    {
+      "category": "Data Handling and Integration",
+      "items": [
+        "Javascript: Employed to process CSV files, calculate centrality metrics, and generate JSON outputs. This allows for seamless integration of analyzed data into our web application, making the results of clustering algorithms accessible and interactive.",
+        "JSON: Serves as the interchange format, enabling the structured representation of clustering results and centrality data for visualization in the web application."
+      ]
+    }
+  ],
+  "implementationInsightsTitle": "Implementation Insights",
+  "implementationInsightsDescription": "Utilizing Python for implementing the AGNES algorithm afforded us access to robust libraries like pandas and scikit-learn, which are indispensable for data analysis. These libraries provided us with the tools necessary to implement our algorithm from scratch, import data, calculate similarities between street observations, and perform hierarchical clustering of streets into meaningful clusters.",
+  "aboutUsTitle": "About the Kolmogorov Team",
+  "aboutUsSubtitle": "The Kolmogorov Team is a group of passionate students from the ILISI - FSTM who are dedicated to exploring the intersection of data science and web development.",
+  "acknowledgmentsTitle": "Acknowledgments",
+  "acknowledgmentsText": "We extend our heartfelt thanks to our teachers, and particularly to Professor Adil EL BOUZIRI, who have guided us throughout this project with wisdom and patience. We are grateful for the opportunity we were given to learn and grow under their mentorship.",
+  "teamSectionTitle": "Meet Our Team",
+  "aboutUsText": "We are a team of software engineering students at Faculty of Sciences and Technology of Mohammedia, dedicated to exploring the intersection of data science and web development. Our team is committed to creating innovative projects that leverage cutting-edge technologies to address real-world challenges. By combining our expertise in data analysis, web development, and user experience design, we strive to deliver impactful solutions that push the boundaries of what is possible.",
+  "centralizationTitle": "Centralization of New York City Traffic",
+  "centralizationSubtitle": "The Centralization feature of our project focuses on identifying the most central streets in New York City, based on traffic flow. By analyzing traffic data from various sources, we can pinpoint the streets that act as key connectors within the city's transportation network.",
+  "classificationTitle": "Classification of New York City Traffic",
+  "classificationSubtitle": "The Classification feature of our project involves clustering New York City streets based on traffic flow patterns. By applying the AGNES algorithm, we can group streets with similar traffic characteristics into distinct clusters, offering valuable insights into the city's traffic dynamics.",
+  "year": "Year",
+  "month": "Month",
+  "day": "Day",
+  "time": "Time",
+  "search": "Search",
+  "footerText": "© 2024 Kolmogorov Team, ILISI - FSTM. All rights reserved."
+}

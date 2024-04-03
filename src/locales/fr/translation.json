@@ -1,0 +1,74 @@
+{
+  "projectTitle": "Centralisation et Classification du Trafic de New York",
+  "overview": "Dans un effort collaboratif, l'équipe Kolmogorov présente le projet \"Centralisation et Classification du Trafic de New York\". Développé dans le cadre de l'atelier Technologies Objet/IoT, ce portail web avancé est conçu pour analyser et visualiser la centralité du trafic au sein du paysage urbain animé de New York.",
+  "navLinks": [
+    {
+      "label": "À propos",
+      "link": "/about"
+    },
+    {
+      "label": "Centralisation",
+      "link": "/centralization"
+    },
+    {
+      "label": "Classification",
+      "link": "/classification"
+    }
+  ],
+  "featuresTitle": "Fonctionnalités",
+  "featuresList": [
+    "Visualisation dynamique de la carte avec fonctionnalités de zoom et de déplacement.",
+    "Données filtrables basées sur l'année, le mois, le jour et les créneaux horaires.",
+    "Clusters codés par couleurs pour représenter différents flux de trafic.",
+    "Informations détaillées sur le flux de trafic accessibles via des marqueurs sur la carte.",
+    "Design réactif pour une visualisation optimale sur ordinateurs de bureau et appareils mobiles.",
+    "Support multilingue pour un public mondial."
+  ],
+  "technologiesUsedTitle": "Technologies Utilisées",
+  "technologiesUsedSubtitle": "Ce projet se situe à l'intersection du développement web moderne et de la science des données avancée, tirant parti d'une pile technologique qui combine la réactivité des interfaces web avec la puissance computationnelle des algorithmes d'analyse de données.",
+  "technologiesUsedList": [
+    {
+      "category": "Développement Frontend",
+      "items": [
+        "React : Alimente l'interface utilisateur dynamique, améliorant l'interaction utilisateur avec des retours en temps réel.",
+        "Leaflet : Fournit la visualisation interactive de la carte, permettant aux utilisateurs d'explorer efficacement les données de trafic.",
+        "React-Leaflet : Intègre Leaflet avec React, assurant un rendu fluide du composant de carte.",
+        "Material-UI : Fournit une suite de composants d'interface utilisateur magnifiquement conçus qui améliorent l'esthétique et l'expérience utilisateur de l'application.",
+        "Bootstrap : Offre une bibliothèque de design réactif qui garantit que l'application est magnifique sur tous les appareils."
+      ]
+    },
+    {
+      "category": "Analyse de Données et Clustering",
+      "items": [
+        "Python : Sert de pilier pour la mise en œuvre des algorithmes d'analyse de données, bénéficiant d'un écosystème riche de bibliothèques pour le calcul numérique et scientifique.",
+        "AGNES (Regroupement Agglomératif) : Au cœur de notre stratégie de classification des données, AGNES permet un clustering hiérarchique en calculant les similarités entre les observations.",
+        "Bibliothèques Python : Utilisation de bibliothèques puissantes telles que pandas pour la manipulation des données et scikit-learn pour la mise en œuvre de l'algorithme AGNES."
+      ]
+    },
+    {
+      "category": "Gestion et Intégration des Données",
+      "items": [
+        "Javascript : Utilisé pour traiter les fichiers CSV, calculer les métriques de centralité et générer des sorties JSON. Cela permet une intégration transparente des données analysées dans notre application web, rendant les résultats des algorithmes de clustering accessibles et interactifs.",
+        "JSON : Sert de format d'échange, permettant la représentation structurée des résultats de clustering et des données de centralité pour la visualisation dans l'application web."
+      ]
+    }
+  ],
+  "implementationInsightsTitle": "Aperçus de la Mise en Œuvre",
+  "implementationInsightsDescription": "L'utilisation de Python pour la mise en œuvre de l'algorithme AGNES nous a donné accès à des bibliothèques robustes telles que pandas et scikit-learn, indispensables pour l'analyse de données. Ces bibliothèques nous ont fourni les outils nécessaires pour implémenter notre algorithme from scratch, importer des données, calculer des similarités entre les observations de rues et effectuer un clustering hiérarchique des rues en clusters significatifs.",
+  "aboutUsTitle": "À propos de l'équipe Kolmogorov",
+  "aboutUsSubtitle": "L'équipe Kolmogorov est un groupe d'étudiants passionnés de l'ILISI - FSTM, dédiés à explorer l'intersection entre la science des données et le développement web.",
+  "teamSectionTitle": "Rencontrez Notre Équipe",
+  "aboutUsText": "Nous sommes une équipe d'étudiants en ingénierie logicielle à la Faculté des Sciences et Techniques de Mohammedia, dédiés à explorer l'intersection entre la science des données et le développement web. Notre équipe s'engage à créer des projets innovants qui exploitent les technologies de pointe pour relever les défis du monde réel. En combinant notre expertise en analyse de données, développement web et conception d'expérience utilisateur, nous nous efforçons de fournir des solutions impactantes qui repoussent les limites du possible.",
+  "acknowledgmentsTitle": "Remerciements",
+  "acknowledgmentsText": "Nous adressons nos plus sincères remerciements à nos enseignants, et en particulier au Pr. Adil EL BOUZIRI, qui nous ont guidés tout au long de ce projet avec sagesse et patience. Nous sommes reconnaissants pour l'opportunité qui nous a été donnée d'apprendre et de nous développer sous leur mentorat.",
+  "centralizationTitle": "Centralisation du trafic de New York",
+  "centralizationSubtitle": "La fonction de centralisation de notre projet se concentre sur l'identification des rues les plus centrales de New York, en fonction du flux de trafic. En analysant les données de trafic provenant de diverses sources, nous pouvons déterminer les rues qui agissent comme des connecteurs clés au sein du réseau de transport de la ville.",
+  "classificationTitle": "Classification du trafic de New York",
+  "classificationSubtitle": "La fonction de classification de notre projet implique le regroupement des rues de New York en fonction des motifs de flux de trafic. En appliquant l'algorithme AGNES, nous pouvons grouper les rues présentant des caractéristiques de trafic similaires en clusters distincts, offrant des aperçus précieux sur la dynamique du trafic de la ville.",
+  "year": "Année",
+  "month": "Mois",
+  "day": "Jour",
+  "time": "Heure",
+  "search": "Chercher",
+  "footerText": "© 2024 Équipe Kolmogorov, ILISI - FSTM. Tous les droits sont réservés."
+}
